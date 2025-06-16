@@ -1,0 +1,4 @@
+Events\MathChallengeListener.class
+ru\doz\mathchallengeplugin\MathChallengePlugin.class
+Commands\MathChallengeCommands.class
+Math\MathChallenge.class

@@ -1,0 +1,10 @@
+name: MathChallengePlugin
+version: '${project.version}'
+main: ru.doz.mathchallengeplugin.MathChallengePlugin
+api-version: '1.21'
+
+commands:
+  mathchallenge:
+    description: "Начать математический вызов"
+    aliases:
+      - math
